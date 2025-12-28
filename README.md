@@ -68,3 +68,27 @@ Student homelessness counts are used as a proxy indicator for housing and sleep 
 ## Status
 Exploratory analysis complete.  
 This repository serves as a foundation for future reporting, visualization, and grant-related analysis.
+
+---
+
+## Analysis & Key Findings
+
+This exploratory analysis focuses on district-level student homelessness data
+reported under the McKinney-Vento Act for the 2021–2022 school year.
+
+After filtering the dataset to Texas LEAs and further narrowing to Cameron and
+Willacy Counties, several patterns emerged:
+
+- Student homelessness is highly concentrated in a small number of districts.
+  In Cameron County, San Benito CISD and Harlingen CISD account for the majority
+  of identified homeless students.
+- Willacy County shows fewer total students, but individual districts represent
+  a larger share of county-level impact.
+- The Texas median district reports 23 homeless students. Multiple districts in
+  both counties exceed this benchmark by a wide margin.
+- Comparing counties to the Texas median highlights disproportionate need that
+  may not be visible when using national-level statistics alone.
+
+These findings support using district-level data to guide targeted resource
+allocation rather than relying on statewide or national averages.
+
