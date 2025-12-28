@@ -1,0 +1,7 @@
+county,district,homeless_students,share_of_county_total,above_tx_median
+Cameron,SAN BENITO CISD,256.0,0.499,True
+Cameron,HARLINGEN CISD,185.0,0.361,True
+Willacy,LYFORD CISD,72.0,0.605,True
+Cameron,LA FERIA ISD,55.0,0.107,True
+Willacy,RAYMONDVILLE ISD,47.0,0.395,True
+Cameron,RIO HONDO ISD,17.0,0.033,False
